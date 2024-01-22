@@ -6,7 +6,7 @@ artist = input("Enter artist name: ")
 album = input("Enter album name: ")
 year = input("Enter year of release: ")
 catno = input("Enter catalogue number: ")
-foldername = artist+" - "+album+" ("+year+") [FLAC] {"+catno+"}"
+foldername = artist+" - "+album+" ("+year+") {"+catno+"} [FLAC]"
 print(foldername)
 #makefolder
 os.mkdir(foldername)
