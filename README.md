@@ -9,6 +9,8 @@ New folder is formatted as
 
 EAC launches (as administrator) after folder creation.
 
-Shortcut of Exact Audio Copy required in the same directory.
+Shortcut of Exact Audio Copy required in the same directory if using .bat file
 
-Launch 'New CD Rip Start.bat' to start
+Launch 'New CD Rip Start.bat' to start and launch Exact Audio Copy afterwards.
+
+Launch 'NewCD.py' to start without Exact Audio Copy launching. Might not work?
